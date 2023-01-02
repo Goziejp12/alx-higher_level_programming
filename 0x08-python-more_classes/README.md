@@ -15,6 +15,7 @@
 | 101-nqueens.py | A program that solves the N queens problem |
 
 # Requirements
+## General
 
 Allowed editors: vi, vim, emacs
 
