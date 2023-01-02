@@ -3,5 +3,5 @@
 | Files          | Descriptions                                      |
 | -------------- | ------------------------------------------------- |
 | 0-rectangle.py | an empty class Rectangle that defines a rectangle |
-| 1-rectangle.py | a class Rectangle that defines a rectangle by: (based on 0 rectangle.py) Private instance attribute: width Private instance attribute: height |
+| 1-rectangle.py | a class Rectangle that defines a rectangle by: (based on 0 rectangle.py) (i)Private instance attribute: width (ii)Private instance attribute: height |
 
