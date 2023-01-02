@@ -1,4 +1,5 @@
-#Python - Test-driven development
+# Python - Test-driven development
+
 | Files                                     | Description                     |
 | ----------------------------------------- | ------------------------------- |
 | 0-add_integer.py, tests/0-add_integer.txt | A function that adds 2 integers |
@@ -11,7 +12,6 @@
 | 101-lazy_matrix_mul.py, tests/101-lazy_matrix_mul.txt | A function that multiplies 2 matrices by using the module NumPy |
 | 102-python.c | A function that prints Python strings |
 
-<<<<<<< HEAD
 ## Requirements
 
 ### Python Scripts
@@ -37,7 +37,7 @@ We strongly encourage you to work together on test cases, so that you don’t mi
 
 # Contributors
 Maduka Chigozie Johnpaul
-=======
+
 ## Python Scripts
 	Allowed editors: vi, vim, emacs
 	All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -58,4 +58,3 @@ Maduka Chigozie Johnpaul
 	All your functions should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)')
 	A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 	We strongly encourage you to work together on test cases, so that you don’t miss any edge case – The Checker is checking for tests!
->>>>>>> 2d522d41e0b00a939bc525ffd902597fadf712c5
