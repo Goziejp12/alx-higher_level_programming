@@ -11,6 +11,7 @@
 | 100-matrix_mul.py, tests/100-matrix_mul.txt | A function that multiplies 2 matrices |
 | 101-lazy_matrix_mul.py, tests/101-lazy_matrix_mul.txt | A function that multiplies 2 matrices by using the module NumPy |
 | 102-python.c | A function that prints Python strings |
+| tests | This folder contains all the test files (*.txt) |
 
 ## Requirements
 
